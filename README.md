@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&show_icons=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nattaphonBu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattaphonBu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nattaphonBu/nattaphonBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
