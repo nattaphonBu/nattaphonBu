@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nattaphonBu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nattaphonBu&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&show_icons=true)
 
