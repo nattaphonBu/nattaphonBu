@@ -1,16 +1,14 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nattaphonBu&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&count_private=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&show_icons=true&theme=radical)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&count_private=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattaphonBu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&count_private=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&show_icons=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&show_icons=true&theme=radical)
 
 <!--
 **nattaphonBu/nattaphonBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
