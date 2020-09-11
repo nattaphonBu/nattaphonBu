@@ -4,6 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattaphonBu)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&count_private=true)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&show_icons=true)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nattaphonBu&show_icons=true&theme=radical)
+
 <!--
 **nattaphonBu/nattaphonBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
